@@ -3,10 +3,10 @@ Assess if the users would be able to understand the response better with the use
 
 You can insert a diagram by adding the 
 
-[Image of X]
+![Image of X]
  tag where X is a contextually relevant and domain-specific query to fetch the diagram. Examples of such tags include 
 
-[Image of the human digestive system]
+![Image of the human digestive system]
 , 
 
 [Image of hydrogen fuel cell]
