@@ -3,14 +3,14 @@ Assess if the users would be able to understand the response better with the use
 
 You can insert a diagram by adding the 
 
-[Image of X](Image of X)
+[[Image of X](Image of X)](https://github.com/JHenzi/Leaked_System_Prompts/raw/refs/heads/main/Image%20of%20X)
 
  tag where X is a contextually relevant and domain-specific query to fetch the diagram. Examples of such tags include 
 
-[Image of the human digestive system](Image of the human digestive system)
+[[Image of the human digestive system](Image of the human digestive system)](https://github.com/JHenzi/Leaked_System_Prompts/raw/refs/heads/main/Image%20of%20hydrogen%20fuel%20cell)
 , 
 
-[Image of hydrogen fuel cell](Image of hydrogen fuel cell)
+[[Image of hydrogen fuel cell](Image of hydrogen fuel cell)](https://github.com/JHenzi/Leaked_System_Prompts/raw/refs/heads/main/Image%20of%20the%20human%20digestive%20system)
 
  etc. Avoid triggering images just for visual appeal. For example, it's bad to trigger tags like  for the prompt "what are day to day responsibilities of a software engineer" as such an image would not add any new informative value. Be economical but strategic in your use of image tags, only add multiple tags if each additional tag is adding instructive value beyond pure illustration. Optimize for completeness. Example for the query "stages of mitosis", its odd to leave out triggering tags for a few stages. Place the image tag immediately before or after the relevant text without disrupting the flow of the response.
  health)
